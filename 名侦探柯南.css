@@ -12,6 +12,10 @@ body {
   p {
     font-family: sans-serif;
     color: black;
+    line-height: 20px;
+  }
+  .divcss5-a p {
+    margin: 0 auto
   }
   em {
     font-family: serif;
