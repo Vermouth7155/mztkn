@@ -1,5 +1,6 @@
 body {
     font-family: sans-serif;
+    background-image: url(../mztkn/images/背景.jpg)
   }
   h1 ,h2 {
     font-family: sans-serif;
@@ -8,6 +9,7 @@ body {
   h1 {
     border-bottom:1px solid gray;
   }
+
   a {
     margin: 0;
     padding: 0;
