@@ -1,5 +1,5 @@
 body {
-    font-family: sans-serif;
+    font-family: "方正舒体", "华文行楷"， "华文楷体"， "华文新魏"， "华文隶书"， "宋体";
     background-image: url(../mztkn/images/背景.jpg)
   }
   h1 ,h2 {
@@ -9,7 +9,6 @@ body {
   h1 {
     border-bottom:1px solid gray;
   }
-
   a {
     margin: 10;
     padding: 10;
